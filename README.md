@@ -1,7 +1,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title> chamod imanatha - A Student, Designer and somewhat a Developer</title>
+	## chamod imanatha - A Student, Designer and somewhat a Developer
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
@@ -17,9 +17,6 @@
 		<h1 class="say-hi">Hi There,chamod imanatha </h1>
 		<p class="description">I have a little bit Expirence in python, html, css, javascript and Node-js. But I'm still learning and I'm not a professional. However I think that I can do something in programming. Some of my friend said that my graphic designs have some look. So I think I have some experience in graphic designing.</p>
 	</div>
-	<div id="contact">
-		<a href="https://github.com/chamodxxx21" target="_blank"><img class="social-logo" id="git" src="github.png"></a>
-		
-	</div>
+	<a href="https://github.com/chamodxxx21" target="_blank"><img class="social-logo" id="git" src="github.png"></a>
 </body>
 </html> 
